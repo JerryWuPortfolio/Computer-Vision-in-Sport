@@ -1,1 +1,1 @@
-# Computer-Vision-in-Sport
+# Computer Vision in Sport
